@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(11_5___Comporbar_si_un_numero_es_positivo_o_negativo)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(11_5___Comporbar_si_un_numero_es_positivo_o_negativo Comprobacion_Negativo_Positivo.cpp)
